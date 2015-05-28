@@ -1,5 +1,3 @@
-# hello-world
-Just another repository
 echo "# hello-world" >> README.md
 git init
 git add README.md
